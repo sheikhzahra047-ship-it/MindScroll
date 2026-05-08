@@ -1,5 +1,4 @@
 # MindScroll
-
 MindScroll is a modern and responsive blog website built using React, HTML, CSS, and Tailwind CSS. It provides a clean and engaging platform for users to explore blogs, articles, and creative content with a smooth user experience.
 
 ## Features
