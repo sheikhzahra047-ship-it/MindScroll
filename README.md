@@ -51,7 +51,7 @@ npm run dev
 
 ## Live Demo
 
-Vercel link: mind-scroll-six.vercel.app
+Vercel link: https://mind-scroll-six.vercel.app
 
 ## Author
 
