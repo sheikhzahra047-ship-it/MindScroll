@@ -2,8 +2,8 @@ import { Github, Twitter, Linkedin, Instagram } from "lucide-react";
 
 const socials = [
 { icon: Twitter, href: "#", label: "Twitter" },
-{ icon: Github, href: "#", label: "GitHub" },
-{ icon: Linkedin, href: "#", label: "LinkedIn" },
+{ icon: Github, href: "https://github.com/", label: "GitHub" },
+{ icon: Linkedin, href: "https://www.linkedin.com/in/zahra-batool-41a48036b/", label: "LinkedIn" },
 { icon: Instagram, href: "#", label: "Instagram" }];
 
 
